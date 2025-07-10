@@ -1,5 +1,6 @@
 from sklearn.metrics import roc_auc_score, roc_curve
 import numpy as np
+import torch
 
 # === Metric function on val_loader ===
 def compute_metrics_from_loader(model, val_loader, device):
