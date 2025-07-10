@@ -22,6 +22,9 @@ The easiest way to set it up is via Google Colab
 To execute the training script, ensure that the `data` directory includes all the necessary files—at a minimum, the training and validation datasets.
 You may also update the data location in the script to match the actual path on your system.
 
+#### Notebooks
+- Here find out an example startup for training our model  
+[![A training template of our work](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_3U_JV7OoBvJNQlUeMYuRfYVCzf9GuE)
 
 ### 📝 Citing
 ```
